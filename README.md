@@ -20,7 +20,7 @@ Page with profile settings.
 Registration and login page.
 
 During development we used:
-- example
+- try use The Dog API
 - example
 - example
 - example
