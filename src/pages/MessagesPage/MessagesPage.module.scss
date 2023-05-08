@@ -1,0 +1,7 @@
+.messagesPage {
+	background-color: #fff9e9;
+
+	:global {
+    @import "./about.module";
+	}
+}

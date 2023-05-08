@@ -1,0 +1,30 @@
+// GLOBAL
+@import "fonts";
+@import "global";
+@import "reset";
+
+$w: #fff9e9;
+$or: #FF6933;
+$dark: #2D4628;
+$act: #E83100;
+$som: #FFA570;
+$light: #FAD074;
+
+
+$f1: 'Montserrat', sans-serif;
+$f2: 'Roboto Mono', monospace;
+
+
+
+
+.content {
+	height: calc(100vh - 65px - 80px);
+	max-width: 750px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+.wrap {
+	max-width: 750px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
