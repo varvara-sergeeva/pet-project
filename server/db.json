@@ -1,0 +1,1138 @@
+{
+	"animals": [
+			{
+					"id": 64400555,
+					"type": "Dog",
+					"breeds": "Shepherd",
+					"age": "Baby",
+					"gender": "Female",
+					"size": "Large",
+					"coat": null,
+					"attributes": {
+							"spayed_neutered": true,
+							"house_trained": false,
+							"declawed": null,
+							"special_needs": false,
+							"shots_current": true
+					},
+					"environment": {
+							"children": true,
+							"dogs": true,
+							"cats": null
+					},
+					"tags": [
+							"Friendly",
+							"Affectionate",
+							"Loyal",
+							"Playful",
+							"Protective",
+							"Funny",
+							"Loves kisses",
+							"Brave"
+					],
+					"name": "Rose",
+					"description": "Meet Rose!!!!\nRose is an incredible 2 year old shepherd mix &amp; an amazing girl. Rose is an incredible doggie...",
+					"photos": {
+							"small": "https://img.freepik.com/free-photo/pedigreed-puppy-in-collar-sitting-on-grass-at-park_651396-3781.jpg",
+							"medium": "https://img.freepik.com/free-photo/pedigreed-puppy-in-collar-sitting-on-grass-at-park_651396-3781.jpg?w=996&t=st=1684102096~exp=1684102696~hmac=26e5eed7b1a164181cda4f24929660b2e0b7c1f11f9780628f5132af572d9795"
+					}
+			},
+			{
+				"id": 64401464,
+				"type": "Dog",
+				"breeds": "Husky",
+				"age": "Baby",
+				"gender": "Female",
+				"size": "Large",
+				"coat": null,
+				"attributes": {
+						"spayed_neutered": false,
+						"house_trained": false,
+						"declawed": null,
+						"special_needs": false,
+						"shots_current": true
+				},
+				"environment": {
+						"children": null,
+						"dogs": null,
+						"cats": null
+				},
+				"tags": [
+					"Playful",
+					"Funny",
+					"Brave"
+				],
+				"name": "Sangria",
+				"description": null,
+				"photos": {
+						"small": "https://img.freepik.com/free-photo/husky-dog-lying-down_144627-26024.jpg",
+						"medium": "https://img.freepik.com/free-photo/husky-dog-lying-down_144627-26024.jpg?w=1060&t=st=1684102884~exp=1684103484~hmac=84542c4c8308a3a94848006bfa3b9b3a56aa5765a452df562dee2f1b99f0416f"
+				}
+			},
+			{
+				"id": 64401463,
+				"type": "Dog",
+				"breeds": "Italian Greyhound",
+				"age": "Old",
+				"gender": "Female",
+				"size": "Medium",
+				"coat": null,
+				"attributes": {
+						"spayed_neutered": true,
+						"house_trained": true,
+						"declawed": null,
+						"special_needs": false,
+						"shots_current": true
+				},
+				"environment": {
+						"children": true,
+						"dogs": true,
+						"cats": true
+				},
+				"tags": [
+						"Affectionate",
+						"Gentle",
+						"Playful",
+						"Smart",
+						"Curious",
+						"Funny",
+						"Quiet",
+						"Couch potato",
+						"Loves kisses",
+						"Loyal"
+				],
+				"name": "Bella",
+				"description": "Isabella is a sweet little girl. She has a funny and independent side to her also.,  But, she really loves...",
+				"photos": {
+						"small": "https://lapkins.ru/upload/uf/175/175a631a9d965a30d2974ffc38399463.jpg",
+						"medium": "https://lapkins.ru/upload/uf/1b2/1b2cf7ed7ee975d0035f71a1c5ac9141.jpg"
+				}
+		},
+		{
+			"id": 64401462,
+			"type": "Dog",
+			"breeds": "Terrier",
+			"age": "Adult",
+			"gender": "Male",
+			"size": "Small",
+			"coat": "Medium",
+			"attributes": {
+					"spayed_neutered": true,
+					"house_trained": true,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": true,
+					"dogs": true,
+					"cats": null
+			},
+			"tags": [
+					"Friendly",
+					"Affectionate",
+					"Loyal",
+					"Gentle",
+					"Playful",
+					"Quiet",
+					"Independent",
+					"Loves kisses"
+			],
+			"name": "Shiloh",
+			"description": "Shiloh was found dumped with 3 other dogs on the side of the road very skinny. He is neutered, vaccinated...",
+			"photos": {
+					"small": "https://kisapes.ru/wp-content/uploads/2021/06/aussier-01.jpg",
+					"medium": "https://kisapes.ru/wp-content/uploads/2021/06/aussier-04.jpg"
+			}
+		},
+		{
+			"id": 64401461,
+			"type": "Dog",
+			"breeds": "Australian Kelpies",
+			"age": "Adult",
+			"gender": "Male",
+			"size": "Large",
+			"coat": "Short",
+			"attributes": {
+					"spayed_neutered": true,
+					"house_trained": false,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": null,
+					"dogs": null,
+					"cats": null
+			},
+			"tags": [
+				"Affectionate",
+				"Loyal",
+				"Gentle",
+				"Playful"
+			],
+			"name": "Fenryss",
+			"description": "weight:  53lbs\nestimated age:  3yrs\n\nThis dog is in the KENNEL at Small Miracles, you MUST apply IN PERSON\n\nPLEASE...",
+			"photos": {
+					"small": "https://kisapes.ru/wp-content/uploads/2022/05/australian-kelpie-04.jpg",
+					"medium": "https://www.purinaone.ru/sites/default/files/styles/image_1200/public/2021-11/shutterstock_1842192472_1.webp?itok=fbUqF8by"
+			}
+		},
+		{
+			"id": 64362746,
+			"type": "Dog",
+			"breeds": "Yorkshire Terrier",
+			"age": "Adult",
+			"gender": "Female",
+			"size": "Small",
+			"coat": "Medium",
+			"attributes": {
+					"spayed_neutered": false,
+					"house_trained": false,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": null,
+					"dogs": true,
+					"cats": null
+			},
+			"tags": [
+					"Friendly",
+					"Affectionate",
+					"Playful",
+					"Smart",
+					"Curious"
+			],
+			"name": "GIZMO",
+			"description": "Finally, another cute, small dog available for adoption! GIZMO is listed as a blonde Yorkie mix and she is a...",
+			"photos": {
+					"small": "https://lapkins.ru/upload/uf/1fe/1feb93c1e13f633466b7cb607e0f1482.jpg",
+					"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64362746/3/?bust=1683991052&width=450"
+			}
+	},
+	{
+		"id": 64407216,
+		"type": "Dog",
+		"breeds": "Cocker Spaniel",
+		"age": "Adult",
+		"gender": "Male",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": true
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "HAILEY",
+		"description": null,
+		"organization_animal_id": "40321798",
+		"photos": {
+			"small": "https://lapkins.ru/upload/uf/04b/04b7ecb6054f9cf80dfc619f47fae0e4.jpg"
+		}
+	},
+	{
+		"id": 64407201,
+		"type": "Dog",
+		"breeds": "Labrador Retriever",
+		"age": "Young",
+		"gender": "Female",
+		"size": "Large",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": true
+		},
+		"environment": {
+				"children": null,
+				"dogs": true,
+				"cats": null
+		},
+		"tags": [
+				"Good with Dogs"
+		],
+		"name": "Latte - FOSTER NEEDED",
+		"description": "** ARRIVING 5/20/23! APPLY TO FOSTER OR FOSTER TO ADOPT! **",
+		"organization_animal_id": "TRUR-A-1061",
+		"photos": {
+			"small": "https://lapkins.ru/upload/uf/339/339ece60066f6003672f95e4097701d5.jpg",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64362746/3/?bust=1683991052&width=450"
+		}
+		},
+		{
+			"id": 64407186,
+			"type": "Dog",
+			"breeds": "Basset Hound",
+			"age": "Young",
+			"gender": "Male",
+			"size": "Medium",
+			"coat": null,
+			"attributes": {
+					"spayed_neutered": true,
+					"house_trained": true,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": null,
+					"dogs": true,
+					"cats": null
+			},
+			"tags": [
+					"Friendly",
+					"Affectionate",
+					"Playful",
+					"Smart"
+			],
+			"name": "Charlie",
+			"description": "This handsome boy is Charlie!  Charlie is a 10-12 month old bassett hound mix who weighs about 30 pounds. This...",
+			"organization_animal_id": null,
+			"photos": {
+					"small": "https://lapkins.ru/upload/uf/879/879bd7e0b9dd626ce32b2f9c49a9a63f.jpg",
+					"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407186/5/?bust=1684104358&width=450"
+			}
+	},
+	{
+		"id": 64407183,
+		"type": "Dog",
+		"breeds": "Terrier",
+		"age": "Baby",
+		"gender": "Female",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": true
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "Evol",
+		"description": "Are you looking for a happy, wiggly little four-legged to add to your household? Well, search no further because here...",
+		"photos": {
+			"small": "https://lapkins.ru/upload/uf/ac3/ac332054a9a01f4ce439816141f281a5.jpg",
+			"medium": "https://lapkins.ru/upload/uf/f7c/f7cf422a02a703f1ab428509b04e0b84.jpg"
+	}
+		},
+		{
+			"id": 64407180,
+			"type": "Dog",
+			"breeds": "Cattle Dog",
+			"age": "Baby",
+			"gender": "Female",
+			"size": "Small",
+			"coat": null,
+			"attributes": {
+					"spayed_neutered": false,
+					"house_trained": false,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": null,
+					"dogs": null,
+					"cats": null
+			},
+			"tags": [],
+			"name": "Pilot",
+			"description": null,
+			"photos":
+					{
+							"small": "https://lapkins.ru/upload/uf/4d8/4d83bfad9b07eed5516b42f8eeb69913.jpg"
+					}
+		},
+		{
+			"id": 64407178,
+			"type": "Dog",
+			"breeds": "Pit Bull Terrier",
+			"colors": {
+					"primary": "Yellow / Tan / Blond / Fawn",
+					"secondary": "White / Cream",
+					"tertiary": null
+			},
+			"age": "Adult",
+			"gender": "Male",
+			"size": "Medium",
+			"coat": null,
+			"attributes": {
+					"spayed_neutered": true,
+					"house_trained": false,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": null,
+					"dogs": null,
+					"cats": null
+			},
+			"tags": [],
+			"name": "Otis",
+			"description": "Otis is just the most wonderful boy! Otis came to the sanctuary with old injury&amp;#39;s to his legs but you...",
+			"photos": {
+				"small": "https://lapkins.ru/upload/uf/185/185c48245fc78527791f2bdb9add98d3.jpg"
+			}
+		},
+		{
+			"id": 64407176,
+			"type": "Dog",
+			"breeds": "Sheltie",
+			"age": "Young",
+			"gender": "Male",
+			"size": "Small",
+			"coat": null,
+			"attributes": {
+					"spayed_neutered": false,
+					"house_trained": false,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": null,
+					"dogs": null,
+					"cats": null
+			},
+			"tags": [],
+			"name": "Sinclair",
+			"description": null,
+			"organization_animal_id": "BKNB-A-44536",
+			"photos":
+					{
+							"small": "https://lapkins.ru/upload/uf/f37/f3782f1e418d0fbee14127611cdec577.jpg"
+					}
+		},
+		{
+			"id": 64407170,
+			"type": "Dog",
+			"breeds": "Mixed Breed",
+			"age": "Senior",
+			"gender": "Male",
+			"size": "Small",
+			"coat": null,
+			"attributes": {
+					"spayed_neutered": false,
+					"house_trained": false,
+					"declawed": null,
+					"special_needs": false,
+					"shots_current": true
+			},
+			"environment": {
+					"children": null,
+					"dogs": null,
+					"cats": null
+			},
+			"tags": [],
+			"name": "Zeus",
+			"description": null,
+			"photos":
+					{
+							"small": "https://lapkins.ru/upload/uf/bcc/bcccba7edd7919681f72366d6c378fcd.jpg",
+							"medium": "https://lapkins.ru/upload/uf/2f4/2f45231286a9c93dd9fc2283b1f4771c.jpg"
+					}
+	},
+
+
+
+
+	{
+		"id": 64407307,
+		"organization_id": "NM80",
+		"url": "https://www.petfinder.com/dog/cami-64407307/nm/taos/stray-hearts-animal-shelter-nm80/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Cattle Dog",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": "White / Cream",
+				"secondary": "Brown / Chocolate",
+				"tertiary": null
+		},
+		"age": "Baby",
+		"gender": "Female",
+		"size": "Small",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": true
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "Cami",
+		"description": null,
+		"organization_animal_id": "STRA-A-9763",
+		"photos": {
+				"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407307/1/?bust=1684105825&width=300",
+				"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407307/1/?bust=1684105825&width=450",
+				"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407307/1/?bust=1684105825&width=600",
+				"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407307/1/?bust=1684105825"
+		}
+},
+{
+		"id": 64407306,
+		"organization_id": "KS296",
+		"url": "https://www.petfinder.com/dog/princess-peach-64407306/ks/olathe/pawsitive-tails-ks296/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "American Staffordshire Terrier",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Female",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": true
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "Princess Peach",
+		"description": "Princess Peach is a perfect angel!! \n She is as quiet as a mouse... until she starts snoring \n Never pulls on...",
+		"organization_animal_id": "PTDR-A-4852",
+		"photos":
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821"
+				}
+},
+{
+		"id": 64407297,
+		"organization_id": "MD66",
+		"url": "https://www.petfinder.com/dog/ozzy-milford-64407297/md/waldorf/beagle-rescue-of-southern-maryland-inc-md66/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Beagle",
+				"secondary": null,
+				"mixed": false,
+				"unknown": false
+		},
+		"colors": {
+				"primary": "Tricolor (Brown, Black, & White)",
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Male",
+		"size": "Small",
+		"coat": "Short",
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": true,
+				"shots_current": true
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [
+				"Friendly",
+				"Affectionate",
+				"Gentle"
+		],
+		"name": "Ozzy Milford",
+		"description": "Sweet little Ozzy is blind, but it doesn&#039;t slow him down one bit!  \n\nOzzy&#039;s Webpage - (copy and paste)\nhttp://beaglemaryland.org/brsm_ms/vIndividualCurrentDog.aspx?dogid=70193...",
+		"organization_animal_id": null,
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177"
+				}
+},
+{
+		"id": 64407300,
+		"organization_id": "CA1527",
+		"url": "https://www.petfinder.com/dog/dog-64407300/ca/riverside/riverside-county-animal-services-ca1527/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Staffordshire Bull Terrier",
+				"secondary": "Bull Terrier",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Male",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "Dog",
+		"description": null,
+		"organization_animal_id": "A1736041",
+		"photos":
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786"
+				}
+},
+{
+		"id": 64407303,
+		"organization_id": "CA1527",
+		"url": "https://www.petfinder.com/dog/dog-64407303/ca/riverside/riverside-county-animal-services-ca1527/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "German Shepherd Dog",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Young",
+		"gender": "Male",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "Dog",
+		"description": null,
+		"organization_animal_id": "A1736278",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786"
+				}
+},
+{
+		"id": 64407298,
+		"organization_id": "TX1003",
+		"url": "https://www.petfinder.com/dog/a383949-64407298/tx/conroe/montgomery-county-animal-shelter-tx1003/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Chihuahua",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Young",
+		"gender": "Female",
+		"size": "Small",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "A383949",
+		"description": null,
+		"organization_animal_id": "A383949",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786"
+				}
+},
+{
+		"id": 64407295,
+		"organization_id": "IL49",
+		"url": "https://www.petfinder.com/dog/dynamite-roll-64407295/il/peoria/peoria-animal-welfare-shelter-il49/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Siberian Husky",
+				"secondary": null,
+				"mixed": false,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Baby",
+		"gender": "Male",
+		"size": "Small",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "DYNAMITE ROLL",
+		"description": null,
+		"organization_animal_id": "A303402",
+		"photos":
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786"
+				}
+},
+{
+		"id": 64407296,
+		"organization_id": "IL49",
+		"url": "https://www.petfinder.com/dog/spicy-tuna-64407296/il/peoria/peoria-animal-welfare-shelter-il49/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Siberian Husky",
+				"secondary": null,
+				"mixed": false,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Baby",
+		"gender": "Male",
+		"size": "Small",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "SPICY TUNA",
+		"description": null,
+		"organization_animal_id": "A303401",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786"
+				}
+},
+{
+		"id": 64407294,
+		"organization_id": "IL49",
+		"url": "https://www.petfinder.com/dog/sam-64407294/il/peoria/peoria-animal-welfare-shelter-il49/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Beagle",
+				"secondary": "Australian Cattle Dog / Blue Heeler",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Young",
+		"gender": "Male",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "SAM",
+		"description": null,
+		"organization_animal_id": "A303128",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786"
+				}
+},
+{
+		"id": 64407292,
+		"organization_id": "NM137",
+		"url": "https://www.petfinder.com/dog/sky-64407292/nm/albuquerque/albuquerque-animal-welfare-westside-nm137/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "German Shepherd Dog",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Baby",
+		"gender": "Female",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "SKY",
+		"description": null,
+		"organization_animal_id": "A1870720",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785"
+				}
+},
+{
+		"id": 64407293,
+		"organization_id": "NM137",
+		"url": "https://www.petfinder.com/dog/latte-64407293/nm/albuquerque/albuquerque-animal-welfare-westside-nm137/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Shih Tzu",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Male",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "LATTE",
+		"description": null,
+		"organization_animal_id": "A1871651",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787"
+				}
+},
+{
+		"id": 64407291,
+		"organization_id": "CO125",
+		"url": "https://www.petfinder.com/dog/larka-64407291/co/colorado-springs/humane-society-of-the-pikes-peak-region-co125/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Australian Cattle Dog / Blue Heeler",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Female",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "LARKA",
+		"description": "** I may be nervous when handled ** ** I am an escape artist! ** ** I may need time...",
+		"organization_animal_id": "A1638789",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786"
+				}
+},
+{
+		"id": 64407290,
+		"organization_id": "CO125",
+		"url": "https://www.petfinder.com/dog/neptune-64407290/co/colorado-springs/humane-society-of-the-pikes-peak-region-co125/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Siberian Husky",
+				"secondary": null,
+				"mixed": false,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Male",
+		"size": "Medium",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": true,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "NEPTUNE",
+		"description": "** Dogs make me uncomfortable! I may be best as the only dog in the home**",
+		"organization_animal_id": "A1629226",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781"
+				}
+},
+{
+		"id": 64407286,
+		"organization_id": "CA764",
+		"url": "https://www.petfinder.com/dog/hamlet-64407286/ca/los-angeles/city-of-los-angeles-west-la-animal-shelter-ca764/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Mixed Breed",
+				"secondary": null,
+				"mixed": false,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Male",
+		"size": "Large",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "HAMLET",
+		"description": null,
+		"organization_animal_id": "A2082634",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712"
+				}
+},
+{
+		"id": 64407283,
+		"organization_id": "AZ101",
+		"url": "https://www.petfinder.com/dog/sunflower-64407283/az/phoenix/mcacc-west-valley-animal-care-center-az101/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+		"type": "Dog",
+		"species": "Dog",
+		"breeds": {
+				"primary": "Australian Cattle Dog / Blue Heeler",
+				"secondary": "Mixed Breed",
+				"mixed": true,
+				"unknown": false
+		},
+		"colors": {
+				"primary": null,
+				"secondary": null,
+				"tertiary": null
+		},
+		"age": "Adult",
+		"gender": "Female",
+		"size": "Large",
+		"coat": null,
+		"attributes": {
+				"spayed_neutered": false,
+				"house_trained": false,
+				"declawed": null,
+				"special_needs": false,
+				"shots_current": false
+		},
+		"environment": {
+				"children": null,
+				"dogs": null,
+				"cats": null
+		},
+		"tags": [],
+		"name": "SUNFLOWER",
+		"description": null,
+		"organization_animal_id": "A4880448",
+		"photos": 
+				{
+						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714&width=100",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714&width=300",
+						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714&width=600",
+						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714"
+				}
+}
+
+	]
+}

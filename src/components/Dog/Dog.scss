@@ -1,9 +1,13 @@
 .card {
 	width: auto;
 
-	&__img img {
+	&__img {
 		width: 100%;
 		max-height: 220px;
 		object-fit: cover;
+	}
+	h3 {
+		font-weight: bold;
+		text-transform: uppercase;
 	}
 }

@@ -1,6 +1,6 @@
 .mainPage {
 	background-color: #fff9e9;
-
+	overflow: auto;
   :global {
     @import "./about.module";
 	}
