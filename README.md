@@ -1,8 +1,14 @@
 # React App
 
+* start dev
 ### `npm start`
 
+* start lockal server data
+### `npm run server`
+
 ### `npm run build`
+
+
 
 My first React app.
 Learning React.

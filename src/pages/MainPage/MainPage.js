@@ -6,6 +6,7 @@ import Footer from '../../components/Footer/Footer';
 
 
 import {Dogs} from './../../components/Dogs/Dogs'
+import {Search} from './../../components/Search/Search'
 
 class MainPage extends React.Component {
 
@@ -20,6 +21,23 @@ class MainPage extends React.Component {
 			.then(data => this.setState({dogs: data}))
 	}
 
+	searchDogs = (queryStr) => {
+		fetch(`http://localhost:3500/animals?breeds_like=${queryStr}`)
+		.then(response => response.json())
+		.then(data => this.setState({dogs: data}))
+	}
+	searchDogs = (queryStr, gender = 'Male, Female') => {
+		fetch(`http://localhost:3500/animals?breeds_like=${queryStr}${gender !== 'Male, Female' ? `&gender=${gender}` : ''}`)
+		.then(response => response.json())
+		.then(data => this.setState({dogs: data}))
+	}
+
+	//searchGender = (genderQ, gender = 'Male') => {
+	//	fetch(`http://localhost:3500/animals?gender=${genderQ}`)
+	//	.then(response => response.json())
+	//	.then(data => this.setState({dogs: data}))
+	//}
+
 	render() {
 		const {dogs} = this.state;
 
@@ -27,6 +45,7 @@ class MainPage extends React.Component {
 			<div className={MainPageStyle.mainPage}>
 				<Header/>
 				<div className='content'>
+					<Search searchDogs={this.searchDogs} />
 					<span className='item'>MAIN</span>
 					<div className='main__body'>
 						{

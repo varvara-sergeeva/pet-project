@@ -1,0 +1,43 @@
+
+.search {
+	max-width: 720px;
+	margin: 30px auto;
+  position: relative;
+  width: 100%;
+  display: block;
+
+	&__input {
+		border: none;
+		background-color: #fff9e9;
+		margin: 0;
+		padding: 10px 0;
+		outline: none;
+		border-bottom: solid 1px #212121;
+		font-size: 15px;
+		margin-top: 12px;
+		width: 100%;
+		color: #212121;
+		-webkit-tap-highlight-color: transparent;
+	}
+	&__btn {
+		border: none;
+		background-color: transparent;
+		position: absolute;
+		top: 20px;
+		right: 0px;
+		color: #535353;
+		transition: 0.2s ease;
+		&:hover {
+			color: #E83100;
+		}
+	}
+	&__gender {
+		margin: 15px 0;
+	}
+	&__gender label {
+		padding-right: 2rem;
+	}
+	&__radio {
+		cursor: pointer;
+	}
+}
