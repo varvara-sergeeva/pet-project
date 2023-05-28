@@ -6,7 +6,7 @@
   width: 100%;
   display: block;
 
-	&__input {
+	&__request {
 		border: none;
 		background-color: #fff9e9;
 		margin: 0;
@@ -19,6 +19,33 @@
 		color: #212121;
 		-webkit-tap-highlight-color: transparent;
 	}
+	&__radio {
+		position: absolute;
+		appearance: none;
+		outline: none;
+	}
+	span {
+		position: relative;
+		padding-left: 30px;
+		cursor: pointer;
+		&::before {
+			position: absolute;
+			top: 0;
+			left: 0;
+			content: '';
+			width: 16px;
+			height: 16px;
+			border-radius: 50%;
+			box-shadow: 0 0 0 2px green;
+			border: 4px solid #fff9e9;
+			background-color: #fff9e9;
+			transition: all 0.15s ease-out 0s;
+		}
+	}
+	&__radio:checked + span::before {
+		background-color: green;
+	}
+	
 	&__btn {
 		border: none;
 		background-color: transparent;

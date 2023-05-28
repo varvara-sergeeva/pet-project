@@ -15,7 +15,7 @@ class Search extends React.Component {
 
   filterGender = (event) => {
     this.setState(
-      () => ({ gender: event.target.dataset.type }),
+      () => ({ gender: event.target.dataset.gender }),
       () => {
         this.props.searchDogs(this.state.search, this.state.gender);
       }
@@ -29,7 +29,7 @@ class Search extends React.Component {
           <input
             placeholder="search breed"
             type="search"
-            className="search__input"
+            className="search__request"
             value={this.state.search}
             onChange={(e) => this.setState({ search: e.target.value })}
             onKeyDown={this.handelKey}
@@ -63,20 +63,21 @@ class Search extends React.Component {
                 name="gender"
                 type="radio"
                 className="search__radio"
-                data-type="Male, Female"
+                data-gender="Male, Female"
                 onChange={this.filterGender}
-                checked={this.state.type == "Male, Female"}
+                checked={this.state.gender === "Male, Female"}
               />
-              <span>All</span>
+              <span className="search__radio-box">All</span>
             </label>
+
             <label>
               <input
                 name="gender"
                 type="radio"
                 className="search__radio"
-                data-type="Male"
+                data-gender="Male"
                 onChange={this.filterGender}
-                checked={this.state.type === "Male"}
+                checked={this.state.gender === "Male"}
               />
               <span>Male</span>
             </label>
@@ -85,9 +86,9 @@ class Search extends React.Component {
                 name="gender"
                 type="radio"
                 className="search__radio"
-                data-type="Female"
+                data-gender="Female"
                 onChange={this.filterGender}
-                checked={this.state.type === "Female"}
+                checked={this.state.gender === "Female"}
               />
               <span>Female</span>
             </label>
