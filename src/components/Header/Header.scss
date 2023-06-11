@@ -3,12 +3,15 @@
 	color: #FAD074;
 	height: 65px;
 	width: 100%;
+	position: fixed;
+	z-index: 5;
 	&__body {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
 		align-items: center;
-		padding: 5px 15px;
+		//padding: 5px 15px;
+		padding: 5px 30px 5px 15px;
 	}
 	&__logo {
 		max-height: 50px;

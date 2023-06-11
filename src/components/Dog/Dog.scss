@@ -1,6 +1,7 @@
 .card {
 	width: auto;
-
+	background-color: #fcfcfc;
+	border-radius: 5px;
 	&__img {
 		width: 100%;
 		max-height: 220px;
@@ -9,5 +10,50 @@
 	h3 {
 		font-weight: bold;
 		text-transform: uppercase;
+		padding-top: 0.7rem;
 	}
+	&__wrap {
+		display: flex;
+		flex-direction: column;
+	}
+	&__info {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+		flex-grow: 1;
+		padding-bottom: 0.7rem;
+	}
+	&__bottom {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+	}
+	&__btn {
+		border: none;
+		width: 50%;
+		height: 50px;
+		background-color: #FFA570;
+		border-radius: 10px;
+		color: #fcfcfc;
+		font-weight: 800;
+		font-size: 12px;
+		text-transform: uppercase;
+		transition: 0.3s ease;
+		&:hover {
+			background-color: #FF6933;
+			box-shadow: 2px 2px 5px 0px rgba(255, 105, 51, 0.2);
+		}
+		&:active {
+			background-color: #FFA570;
+			box-shadow: 2px 2px 5px 0px rgba(255, 105, 51, 0.2);
+		}
+	}
+	&__price {
+		font-size: 20px;
+		font-weight: 800;
+		color: #010101;
+	}
+
 }

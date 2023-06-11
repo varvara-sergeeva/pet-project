@@ -21,7 +21,9 @@ $f2: 'Roboto Mono', monospace;
 	height: calc(100vh - 65px - 80px);
 	max-width: 750px;
 	padding: 0 15px;
-	margin: 0 auto;
+	margin: 70px auto;
+	position: relative;
+	z-index: 1;
 }
 .wrap {
 	max-width: 750px;

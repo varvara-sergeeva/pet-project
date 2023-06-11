@@ -1,6 +1,8 @@
 .mainPage {
+	position: relative;
 	background-color: #fff9e9;
 	overflow: auto;
+	min-height: 100vh;
   :global {
     @import "./about.module";
 	}

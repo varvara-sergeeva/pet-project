@@ -7,6 +7,7 @@
 					"age": "Baby",
 					"gender": "Female",
 					"size": "Large",
+					"price": "100",
 					"coat": null,
 					"attributes": {
 							"spayed_neutered": true,
@@ -44,6 +45,7 @@
 				"age": "Baby",
 				"gender": "Female",
 				"size": "Large",
+				"price": "100",
 				"coat": null,
 				"attributes": {
 						"spayed_neutered": false,
@@ -76,6 +78,7 @@
 				"age": "Old",
 				"gender": "Female",
 				"size": "Medium",
+				"price": "100",
 				"coat": null,
 				"attributes": {
 						"spayed_neutered": true,
@@ -115,6 +118,7 @@
 			"age": "Adult",
 			"gender": "Male",
 			"size": "Small",
+			"price": "50",
 			"coat": "Medium",
 			"attributes": {
 					"spayed_neutered": true,
@@ -152,6 +156,7 @@
 			"age": "Adult",
 			"gender": "Male",
 			"size": "Large",
+			"price": "100",
 			"coat": "Short",
 			"attributes": {
 					"spayed_neutered": true,
@@ -185,6 +190,7 @@
 			"age": "Adult",
 			"gender": "Female",
 			"size": "Small",
+			"price": "50",
 			"coat": "Medium",
 			"attributes": {
 					"spayed_neutered": false,
@@ -219,6 +225,7 @@
 		"age": "Adult",
 		"gender": "Male",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -247,6 +254,7 @@
 		"age": "Young",
 		"gender": "Female",
 		"size": "Large",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -278,6 +286,7 @@
 			"age": "Young",
 			"gender": "Male",
 			"size": "Medium",
+			"price": "100",
 			"coat": null,
 			"attributes": {
 					"spayed_neutered": true,
@@ -312,6 +321,7 @@
 		"age": "Baby",
 		"gender": "Female",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": true,
@@ -340,6 +350,7 @@
 			"age": "Baby",
 			"gender": "Female",
 			"size": "Small",
+			"price": "50",
 			"coat": null,
 			"attributes": {
 					"spayed_neutered": false,
@@ -373,6 +384,7 @@
 			"age": "Adult",
 			"gender": "Male",
 			"size": "Medium",
+			"price": "100",
 			"coat": null,
 			"attributes": {
 					"spayed_neutered": true,
@@ -400,6 +412,7 @@
 			"age": "Young",
 			"gender": "Male",
 			"size": "Small",
+			"price": "50",
 			"coat": null,
 			"attributes": {
 					"spayed_neutered": false,
@@ -429,6 +442,7 @@
 			"age": "Senior",
 			"gender": "Male",
 			"size": "Small",
+			"price": "50",
 			"coat": null,
 			"attributes": {
 					"spayed_neutered": false,
@@ -475,6 +489,7 @@
 		"age": "Baby",
 		"gender": "Female",
 		"size": "Small",
+		"price": "50",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": true,
@@ -501,24 +516,12 @@
 },
 {
 		"id": 64407306,
-		"organization_id": "KS296",
-		"url": "https://www.petfinder.com/dog/princess-peach-64407306/ks/olathe/pawsitive-tails-ks296/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "American Staffordshire Terrier",
-				"secondary": "Mixed Breed",
-				"mixed": true,
-				"unknown": false
-		},
-		"colors": {
-				"primary": null,
-				"secondary": null,
-				"tertiary": null
-		},
+		"breeds": "Pitbull",
 		"age": "Adult",
 		"gender": "Female",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -535,35 +538,20 @@
 		"tags": [],
 		"name": "Princess Peach",
 		"description": "Princess Peach is a perfect angel!! \n She is as quiet as a mouse... until she starts snoring \n Never pulls on...",
-		"organization_animal_id": "PTDR-A-4852",
 		"photos":
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407306/2/?bust=1684105821"
+						"small": "https://krasivosti.pro/uploads/posts/2021-04/1618012406_36-p-pitbul-sobaka-sobaki-krasivo-foto-36.jpg",
+						"medium": "https://krasivosti.pro/uploads/posts/2021-04/1618012419_41-p-pitbul-sobaka-sobaki-krasivo-foto-41.jpg"
 				}
 },
 {
 		"id": 64407297,
-		"organization_id": "MD66",
-		"url": "https://www.petfinder.com/dog/ozzy-milford-64407297/md/waldorf/beagle-rescue-of-southern-maryland-inc-md66/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Beagle",
-				"secondary": null,
-				"mixed": false,
-				"unknown": false
-		},
-		"colors": {
-				"primary": "Tricolor (Brown, Black, & White)",
-				"secondary": null,
-				"tertiary": null
-		},
+		"breeds": "Beagle",
 		"age": "Adult",
 		"gender": "Male",
 		"size": "Small",
+		"price": "50",
 		"coat": "Short",
 		"attributes": {
 				"spayed_neutered": true,
@@ -572,25 +560,17 @@
 				"special_needs": true,
 				"shots_current": true
 		},
-		"environment": {
-				"children": null,
-				"dogs": null,
-				"cats": null
-		},
 		"tags": [
 				"Friendly",
 				"Affectionate",
 				"Gentle"
 		],
-		"name": "Ozzy Milford",
-		"description": "Sweet little Ozzy is blind, but it doesn&#039;t slow him down one bit!  \n\nOzzy&#039;s Webpage - (copy and paste)\nhttp://beaglemaryland.org/brsm_ms/vIndividualCurrentDog.aspx?dogid=70193...",
-		"organization_animal_id": null,
+		"name": "Ozzy",
+		"description": "Ozzy is a loyal companion, always there and eager to please. He loves to play and go on walks, but also enjoys snuggling up on the couch for a good nap. Despite his friendly nature, Ozzy can be quite stubborn at times, especially when it comes to food. He has a big appetite and will do anything to get his paws on a tasty treat. Overall, Ozzy is a lovable and energetic Beagle that brings joy to everyone he meets.",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177"
+						"small": "https://storage-api.petstory.ru/resize/0x0x70/50/26/c3/5026c318e85c4b87aa4cea830d64d3f3.jpeg",
+						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407297/1/?bust=1684105177&width=300"
 				}
 },
 {
@@ -598,22 +578,12 @@
 		"organization_id": "CA1527",
 		"url": "https://www.petfinder.com/dog/dog-64407300/ca/riverside/riverside-county-animal-services-ca1527/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Staffordshire Bull Terrier",
-				"secondary": "Bull Terrier",
-				"mixed": true,
-				"unknown": false
-		},
-		"colors": {
-				"primary": null,
-				"secondary": null,
-				"tertiary": null
-		},
+		"breeds": "Bull Terrier",
+
 		"age": "Adult",
 		"gender": "Male",
 		"size": "Medium",
-		"coat": null,
+		"price": "100",
 		"attributes": {
 				"spayed_neutered": false,
 				"house_trained": false,
@@ -621,43 +591,21 @@
 				"special_needs": false,
 				"shots_current": false
 		},
-		"environment": {
-				"children": null,
-				"dogs": null,
-				"cats": null
-		},
 		"tags": [],
-		"name": "Dog",
-		"description": null,
-		"organization_animal_id": "A1736041",
+		"name": "Bob",
 		"photos":
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407300/1/?bust=1684105786"
+						"small": "https://lapkins.ru/upload/uf/079/079a09075d4644070ca4a7731725e1c0.jpg"
 				}
 },
 {
 		"id": 64407303,
-		"organization_id": "CA1527",
-		"url": "https://www.petfinder.com/dog/dog-64407303/ca/riverside/riverside-county-animal-services-ca1527/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "German Shepherd Dog",
-				"secondary": "Mixed Breed",
-				"mixed": true,
-				"unknown": false
-		},
-		"colors": {
-				"primary": null,
-				"secondary": null,
-				"tertiary": null
-		},
+		"breeds": "German Shepherd Dog",
 		"age": "Young",
 		"gender": "Male",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": true,
@@ -672,37 +620,23 @@
 				"cats": null
 		},
 		"tags": [],
-		"name": "Dog",
+		"name": "Hachi",
 		"description": null,
 		"organization_animal_id": "A1736278",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407303/1/?bust=1684105786"
+					"small": "https://lapkins.ru/upload/uf/16a/16a5cd0b5397f00cc66cf893f87f487f.jpg",
+					"medium": "https://lapkins.ru/upload/uf/f9f/f9fe17c5469760d854e7f3ab80af618b.jpg"
 				}
 },
 {
 		"id": 64407298,
-		"organization_id": "TX1003",
-		"url": "https://www.petfinder.com/dog/a383949-64407298/tx/conroe/montgomery-county-animal-shelter-tx1003/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Chihuahua",
-				"secondary": "Mixed Breed",
-				"mixed": true,
-				"unknown": false
-		},
-		"colors": {
-				"primary": null,
-				"secondary": null,
-				"tertiary": null
-		},
+		"breeds": "Chihuahua",
 		"age": "Young",
 		"gender": "Female",
 		"size": "Small",
+		"price": "50",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -716,30 +650,17 @@
 				"dogs": null,
 				"cats": null
 		},
-		"tags": [],
-		"name": "A383949",
+		"name": "Maddie",
 		"description": null,
-		"organization_animal_id": "A383949",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407298/1/?bust=1684105786"
+						"small": "https://lapkins.ru/upload/uf/26a/26ac24835a84a78aeabee767c786fb14.jpg"
 				}
 },
 {
 		"id": 64407295,
-		"organization_id": "IL49",
-		"url": "https://www.petfinder.com/dog/dynamite-roll-64407295/il/peoria/peoria-animal-welfare-shelter-il49/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Siberian Husky",
-				"secondary": null,
-				"mixed": false,
-				"unknown": false
-		},
+		"breeds": "Siberian Husky",
 		"colors": {
 				"primary": null,
 				"secondary": null,
@@ -748,6 +669,7 @@
 		"age": "Baby",
 		"gender": "Male",
 		"size": "Small",
+		"price": "50",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -756,35 +678,18 @@
 				"special_needs": false,
 				"shots_current": false
 		},
-		"environment": {
-				"children": null,
-				"dogs": null,
-				"cats": null
-		},
 		"tags": [],
 		"name": "DYNAMITE ROLL",
 		"description": null,
-		"organization_animal_id": "A303402",
 		"photos":
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407295/1/?bust=1684105786"
+						"small": "https://lapkins.ru/upload/uf/30d/30d5baa810893c52858181da7a905582.jpg"
 				}
 },
 {
 		"id": 64407296,
-		"organization_id": "IL49",
-		"url": "https://www.petfinder.com/dog/spicy-tuna-64407296/il/peoria/peoria-animal-welfare-shelter-il49/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Siberian Husky",
-				"secondary": null,
-				"mixed": false,
-				"unknown": false
-		},
+		"breeds": "Siberian Husky",
 		"colors": {
 				"primary": null,
 				"secondary": null,
@@ -793,6 +698,7 @@
 		"age": "Baby",
 		"gender": "Male",
 		"size": "Small",
+		"price": "50",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -809,21 +715,14 @@
 		"tags": [],
 		"name": "SPICY TUNA",
 		"description": null,
-		"organization_animal_id": "A303401",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407296/1/?bust=1684105786"
+						"small": "https://lapkins.ru/upload/uf/faf/faf4e45ba12ade8605ee8dc18f7d746c.jpg"
 				}
 },
 {
 		"id": 64407294,
-		"organization_id": "IL49",
-		"url": "https://www.petfinder.com/dog/sam-64407294/il/peoria/peoria-animal-welfare-shelter-il49/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
 		"breeds": {
 				"primary": "Beagle",
 				"secondary": "Australian Cattle Dog / Blue Heeler",
@@ -838,6 +737,7 @@
 		"age": "Young",
 		"gender": "Male",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": true,
@@ -854,21 +754,14 @@
 		"tags": [],
 		"name": "SAM",
 		"description": null,
-		"organization_animal_id": "A303128",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407294/1/?bust=1684105786"
+						"small": "https://lapkins.ru/upload/uf/c02/c029ee0dad6fab52b2a374fa0f486580.jpg"
 				}
 },
 {
 		"id": 64407292,
-		"organization_id": "NM137",
-		"url": "https://www.petfinder.com/dog/sky-64407292/nm/albuquerque/albuquerque-animal-welfare-westside-nm137/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
 		"breeds": {
 				"primary": "German Shepherd Dog",
 				"secondary": "Mixed Breed",
@@ -883,6 +776,7 @@
 		"age": "Baby",
 		"gender": "Female",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": true,
@@ -899,27 +793,16 @@
 		"tags": [],
 		"name": "SKY",
 		"description": null,
-		"organization_animal_id": "A1870720",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407292/1/?bust=1684105785"
+						"small": "https://lapkins.ru/upload/uf/060/060630f1c9fc9359a9bab3190f9ee38d.jpg"
 				}
 },
 {
 		"id": 64407293,
-		"organization_id": "NM137",
-		"url": "https://www.petfinder.com/dog/latte-64407293/nm/albuquerque/albuquerque-animal-welfare-westside-nm137/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
 		"species": "Dog",
-		"breeds": {
-				"primary": "Shih Tzu",
-				"secondary": "Mixed Breed",
-				"mixed": true,
-				"unknown": false
-		},
+		"breeds": "German spitz",
 		"colors": {
 				"primary": null,
 				"secondary": null,
@@ -928,6 +811,7 @@
 		"age": "Adult",
 		"gender": "Male",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": true,
@@ -944,27 +828,15 @@
 		"tags": [],
 		"name": "LATTE",
 		"description": null,
-		"organization_animal_id": "A1871651",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407293/1/?bust=1684105787"
+						"small": "https://lapkins.ru/upload/uf/a18/a1875815ad3414dd56bab647e2c579db.jpg"
 				}
 },
 {
 		"id": 64407291,
-		"organization_id": "CO125",
-		"url": "https://www.petfinder.com/dog/larka-64407291/co/colorado-springs/humane-society-of-the-pikes-peak-region-co125/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Australian Cattle Dog / Blue Heeler",
-				"secondary": "Mixed Breed",
-				"mixed": true,
-				"unknown": false
-		},
+		"breeds": "Sheltie",
 		"colors": {
 				"primary": null,
 				"secondary": null,
@@ -973,6 +845,7 @@
 		"age": "Adult",
 		"gender": "Female",
 		"size": "Medium",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": true,
@@ -989,36 +862,19 @@
 		"tags": [],
 		"name": "LARKA",
 		"description": "** I may be nervous when handled ** ** I am an escape artist! ** ** I may need time...",
-		"organization_animal_id": "A1638789",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407291/1/?bust=1684105786"
+						"small": "https://lapkins.ru/upload/uf/401/4019a56a6425c6a5e91cb24541b3a72a.jpg"
 				}
 },
 {
 		"id": 64407290,
-		"organization_id": "CO125",
-		"url": "https://www.petfinder.com/dog/neptune-64407290/co/colorado-springs/humane-society-of-the-pikes-peak-region-co125/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Siberian Husky",
-				"secondary": null,
-				"mixed": false,
-				"unknown": false
-		},
-		"colors": {
-				"primary": null,
-				"secondary": null,
-				"tertiary": null
-		},
+		"breeds": "Siberian Husky",
 		"age": "Adult",
 		"gender": "Male",
 		"size": "Medium",
-		"coat": null,
+		"price": "100",
 		"attributes": {
 				"spayed_neutered": true,
 				"house_trained": false,
@@ -1026,35 +882,18 @@
 				"special_needs": false,
 				"shots_current": false
 		},
-		"environment": {
-				"children": null,
-				"dogs": null,
-				"cats": null
-		},
-		"tags": [],
 		"name": "NEPTUNE",
 		"description": "** Dogs make me uncomfortable! I may be best as the only dog in the home**",
-		"organization_animal_id": "A1629226",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407290/1/?bust=1684105781"
+						"small": "https://lapkins.ru/upload/uf/999/999292dbca18e43607038a223284f6ac.jpg"
 				}
 },
 {
 		"id": 64407286,
-		"organization_id": "CA764",
-		"url": "https://www.petfinder.com/dog/hamlet-64407286/ca/los-angeles/city-of-los-angeles-west-la-animal-shelter-ca764/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
 		"species": "Dog",
-		"breeds": {
-				"primary": "Mixed Breed",
-				"secondary": null,
-				"mixed": false,
-				"unknown": false
-		},
+		"breeds": "Alabai",
 		"colors": {
 				"primary": null,
 				"secondary": null,
@@ -1063,6 +902,7 @@
 		"age": "Adult",
 		"gender": "Male",
 		"size": "Large",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -1079,27 +919,15 @@
 		"tags": [],
 		"name": "HAMLET",
 		"description": null,
-		"organization_animal_id": "A2082634",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407286/1/?bust=1684105712"
+						"small": "https://lapkins.ru/upload/uf/23f/23fe387ce5662f091ab283ce1a161452.jpg"
 				}
 },
 {
 		"id": 64407283,
-		"organization_id": "AZ101",
-		"url": "https://www.petfinder.com/dog/sunflower-64407283/az/phoenix/mcacc-west-valley-animal-care-center-az101/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
 		"type": "Dog",
-		"species": "Dog",
-		"breeds": {
-				"primary": "Australian Cattle Dog / Blue Heeler",
-				"secondary": "Mixed Breed",
-				"mixed": true,
-				"unknown": false
-		},
+		"breeds": "Alabai",
 		"colors": {
 				"primary": null,
 				"secondary": null,
@@ -1108,6 +936,7 @@
 		"age": "Adult",
 		"gender": "Female",
 		"size": "Large",
+		"price": "100",
 		"coat": null,
 		"attributes": {
 				"spayed_neutered": false,
@@ -1124,14 +953,1164 @@
 		"tags": [],
 		"name": "SUNFLOWER",
 		"description": null,
-		"organization_animal_id": "A4880448",
 		"photos": 
 				{
-						"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714&width=100",
-						"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714&width=300",
-						"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714&width=600",
-						"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64407283/1/?bust=1684105714"
+						"small": "https://lapkins.ru/upload/uf/e43/e4340d8bbc54ec46fb764dfd351c5f3c.jpg"
 				}
+},
+{
+	"id": 64775485,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": {
+			"primary": "Labradoodle",
+			"secondary": "Aussiedoodle",
+			"mixed": true,
+			"unknown": false
+	},
+	"age": "Baby",
+	"gender": "Female",
+	"size": "Large",
+	"price": "100",
+	"coat": "Medium",
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": true,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": true
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Loyal",
+			"Smart",
+			"Playful",
+			"Gentle",
+			"Protective",
+			"Brave",
+			"Curious",
+			"Athletic",
+			"Funny",
+			"Independent"
+	],
+	"name": "Wanda ",
+	"description": "Happy to announce we are now accepting applications for Wanda!\n \nRescue: fureverable.com\nName: Wanda\nBreed: Ausi-laberdoodle\nGender: female \nSpayed/neutered: spay...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775485/2/?bust=1685392004&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775485/2/?bust=1685392004&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775485/2/?bust=1685392004&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775485/2/?bust=1685392004"
+	}
+},
+{
+	"id": 64775475,
+	"type": "Dog",
+	"breeds": {
+			"primary": "Yellow Labrador Retriever",
+			"secondary": null,
+			"mixed": true,
+			"unknown": false
+	},
+	"age": "Young",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Loyal",
+			"Loves kisses",
+			"Playful"
+	],
+	"name": "Jesse",
+	"description": "Jesse has been rescued from living life on a rural dirt road and fending for himself along with two brothers...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775475/1/?bust=1685391988&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775475/1/?bust=1685391988&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775475/1/?bust=1685391988&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775475/1/?bust=1685391988"
+	}
+},
+{
+	"id": 64775474,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "Husky",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Medium",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": true,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Hanson",
+	"description": "I came into the rescue as a 4-month-old puppy with my littermates. I am about a year old now. All...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775474/1/?bust=1685391986&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775474/1/?bust=1685391986&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775474/1/?bust=1685391986&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775474/1/?bust=1685391986"
+	}
+},
+{
+	"id": 64775473,
+	"type": "Dog",
+	"breeds": "Shepherd",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Medium",
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": true
+	},
+	"tags": [
+			"Friendly",
+			"Smart",
+			"Affectionate"
+	],
+	"name": "Buddy",
+	"description": "Please go to www.yvpr.org/adoptions to complete an adoption application.\nYVPR does not respond to applications/inquiries originating from Petfinder. Questions about...",
+	"photos":{
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775473/1/?bust=1685391977&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775473/1/?bust=1685391977&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775473/1/?bust=1685391977&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775473/1/?bust=1685391977"
+	}
+},
+{
+	"id": 64775468,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "Shepherd",
+	"age": "Baby",
+	"gender": "Female",
+	"size": "Small",
+	"price": "50",
+	"coat": null,
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Beachbum",
+	"description": null,
+	"photos":  {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775468/1/?bust=1685392560&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775468/1/?bust=1685392560&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775468/1/?bust=1685392560&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775468/1/?bust=1685392560"
+	}
+},
+{
+	"id": 64775466,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": {
+			"primary": "Shepherd",
+			"secondary": null,
+			"mixed": true,
+			"unknown": false
+	},
+	"age": "Baby",
+	"gender": "Male",
+	"size": "Small",
+	"price": "50",
+	"coat": null,
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Mai Tai",
+	"description": null,
+	"photos":  {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775466/1/?bust=1685392562&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775466/1/?bust=1685392562&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775466/1/?bust=1685392562&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775466/1/?bust=1685392562"
+	}
+},
+{
+	"id": 64775465,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": {
+			"primary": "Black Mouth Cur",
+			"secondary": "Mixed Breed",
+			"mixed": true,
+			"unknown": false
+	},
+	"age": "Baby",
+	"gender": "Male",
+	"size": "Small",
+	"price": "50",
+	"coat": null,
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Scoobs",
+	"description": null,
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775465/1/?bust=1685392557&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775465/1/?bust=1685392557&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775465/1/?bust=1685392557&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775465/1/?bust=1685392557"
+	}
+},
+{
+	"id": 64775462,
+	"type": "Dog",
+	"breeds": {
+			"primary": "Mixed Breed",
+			"secondary": null,
+			"mixed": false,
+			"unknown": false
+	},
+	"colors": {
+			"primary": "Black",
+			"secondary": null,
+			"tertiary": null
+	},
+	"age": "Baby",
+	"gender": "Male",
+	"size": "Medium",
+	"price": "100",
+	"coat": null,
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Peter",
+	"description": null,
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775462/1/?bust=1685392562&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775462/1/?bust=1685392562&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775462/1/?bust=1685392562&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775462/1/?bust=1685392562"
+	}
+},
+{
+	"id": 64775453,
+	"type": "Dog",
+	"breeds": {
+			"primary": "Parson Russell Terrier",
+			"secondary": null,
+			"mixed": true,
+			"unknown": false
+	},
+	"colors": {
+			"primary": "Tricolor (Brown, Black, & White)",
+			"secondary": null,
+			"tertiary": null
+	},
+	"age": "Baby",
+	"gender": "Male",
+	"size": "Small",
+	"price": "50",
+	"coat": "Wire",
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": true,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Loyal",
+			"Gentle",
+			"Playful",
+			"Curious",
+			"Loves kisses"
+	],
+	"name": "Dexter",
+	"description": "This sweet boy is doing well in his foster home learning how to be a puppy. He does well with...",
+	"organization_animal_id": null,
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775453/1/?bust=1685391851&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775453/1/?bust=1685391851&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775453/1/?bust=1685391851&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775453/1/?bust=1685391851"
+	}
+},
+{
+	"id": 64775442,
+	"type": "Dog",
+	"breeds": "Boxer",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": true,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Athletic",
+			"Loyal",
+			"",
+			"Meet N Greet Recommended",
+			"Snuggle Bug",
+			"Active",
+			"Kennel Trained "
+	],
+	"name": "Beasley",
+	"description": "Beasley is a big good-natured boy who loves to be petted. He absolutely adores his foster family &amp; is the...",
+	"organization_animal_id": null,
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775442/1/?bust=1685391743&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775442/1/?bust=1685391743&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775442/1/?bust=1685391743&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775442/1/?bust=1685391743"
+	}
+},
+{
+	"id": 64775542,
+	"type": "Dog",
+	"breeds": "Terrier",
+	"age": "Young",
+	"gender": "Male",
+	"size": "Small",
+	"price": "50",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Playful",
+			"Smart",
+			"Funny",
+			"Athletic",
+			"Couch potato",
+			"Loves kisses"
+	],
+	"name": "Grizzly",
+	"description": "Grizzly is a Terrier Mix. He is around 1-2 years old. He is a very sweet and loving boy! He...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775542/2/?bust=1685392496&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775542/2/?bust=1685392496&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775542/2/?bust=1685392496&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775542/2/?bust=1685392496"
+	}
+},
+{
+	"id": 64775534,
+	"type": "Dog",
+	"breeds": "Mixed Breed",
+	"age": "Young",
+	"gender": "Female",
+	"size": "Medium",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Loyal",
+			"Smart"
+	],
+	"name": "Data",
+	"description": null,
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775534/1/?bust=1685392357&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775534/1/?bust=1685392357&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775534/1/?bust=1685392357&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775534/1/?bust=1685392357"
+	}
+},
+{
+	"id": 64775533,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "German Shepherd Dog",
+	"age": "Adult",
+	"gender": "Female",
+	"size": "Large",
+	"price": "100",
+	"coat": "Medium",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": true,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": false
+	},
+	"tags": [],
+	"name": "Greta",
+	"description": "Greta! I was found as a stray. We did find her owners, however, they did not want her back. They...",
+	"photos":{
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775533/1/?bust=1685392343&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775533/1/?bust=1685392343&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775533/1/?bust=1685392343&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775533/1/?bust=1685392343"
+	}
+},
+{
+	"id": 64775531,
+	"type": "Dog",
+	"breeds": "Black Labrador Retriever",
+	"age": "Baby",
+	"gender": "Female",
+	"size": "Medium",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Playful",
+			"Smart",
+			"Curious",
+			"Funny",
+			"Athletic",
+			"Loves kisses"
+	],
+	"name": "Britt",
+	"description": null,
+	"photos":  {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775531/1/?bust=1685392305&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775531/1/?bust=1685392305&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775531/1/?bust=1685392305&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775531/1/?bust=1685392305"
+	}
+},
+{
+	"id": 64775528,
+	"type": "Dog",
+	"breeds":  "Staffordshire Bull Terrier",
+	"colors": {
+			"primary": "White / Cream",
+			"secondary": null,
+			"tertiary": null
+	},
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": false
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Smart",
+			"Loves kisses",
+			"",
+			"Meet N Greet Recommended",
+			"Loyal"
+	],
+	"name": "Buddy ",
+	"description": "Meet Buddy! This hunk is in search of his forever family! He loves pets &amp; hugs &amp; is a very...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775528/1/?bust=1685392289&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775528/1/?bust=1685392289&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775528/1/?bust=1685392289&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775528/1/?bust=1685392289"
+	}
+},
+{
+	"id": 64775529,
+	"type": "Dog",
+	"breeds":  "Mixed Breed",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Small",
+	"price": "50",
+	"coat": null,
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Buffy",
+	"description": "Primary Color: Tan Weight: 11lbs Age: 6yrs 0mths 3wks",
+	"photos":{
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775529/1/?bust=1685392895&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775529/1/?bust=1685392895&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775529/1/?bust=1685392895&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775529/1/?bust=1685392895"
+	}
+},
+{
+	"id": 64775527,
+	"type": "Dog",
+	"breeds": "Staffordshire Bull Terrier",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": false
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Smart",
+			"Loves kisses",
+			"",
+			"Meet N Greet Recommended",
+			"Loyal"
+	],
+	"name": "Buddy ",
+	"description": "Meet Buddy! This hunk is in search of his forever family! He loves pets &amp; hugs &amp; is a very...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775527/1/?bust=1685392271&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775527/1/?bust=1685392271&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775527/1/?bust=1685392271&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775527/1/?bust=1685392271"
+	}
+},
+{
+	"id": 64775517,
+	"type": "Dog",
+	"breeds": "Staffordshire Bull Terrier",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": false
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Smart",
+			"Loves kisses",
+			"",
+			"Meet N Greet Recommended",
+			"Loyal"
+	],
+	"name": "Buddy",
+	"description": "Meet Buddy! This hunk is in search of his forever family! He loves pets &amp; hugs &amp; is a very...",
+	"photos":{
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775517/1/?bust=1685392255&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775517/1/?bust=1685392255&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775517/1/?bust=1685392255&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775517/1/?bust=1685392255"
+	}
+},
+{
+	"id": 64775516,
+	"type": "Dog",
+	"breeds": "Yellow Labrador Retriever",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Medium",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": true,
+			"declawed": null,
+			"special_needs": true,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Gentle",
+			"Loyal",
+			"Smart"
+	],
+	"name": "Jedi",
+	"description": "Jedi is 6-7 years old. 50 lbs\n  \t\n\nJedi was in a shelter, intact and heartworm positive. probably been an outside...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775516/5/?bust=1685392254&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775516/5/?bust=1685392254&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775516/5/?bust=1685392254&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775516/5/?bust=1685392254"
+	}
+},
+{
+	"id": 64775515,
+	"type": "Dog",
+	"breeds": "Mixed Breed",
+	"age": "Baby",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Playful"
+	],
+	"name": "Wagyu",
+	"description": "Wagyu \n~8 weeks old, male, mixed breed/reservation mix\n\nMeet Wagyu. Wagyu and his siblings came to our spay/neuter clinic on...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775515/1/?bust=1685392245&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775515/1/?bust=1685392245&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775515/1/?bust=1685392245&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775515/1/?bust=1685392245"
+	}
+},
+{
+	"id": 64775514,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "Staffordshire Bull Terrier",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": false
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Smart",
+			"Loves kisses",
+			"",
+			"Meet N Greet Recommended",
+			"Loyal"
+	],
+	"name": "Buddy",
+	"description": "Meet Buddy! This hunk is in search of his forever family! He loves pets &amp; hugs &amp; is a very...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775514/1/?bust=1685392240&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775514/1/?bust=1685392240&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775514/1/?bust=1685392240&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775514/1/?bust=1685392240"
+	}
+},
+{
+	"id": 64775511,
+	"type": "Dog",
+	"breeds": "Great Pyrenees",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Long",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Amazing Alpine",
+	"description": "*****If you are interested in adopting Alpine, please copy/paste the following link into your browser for an application!\n\nwww.tinyurl.com/adopt-shpr\n\nWHERE...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775511/3/?bust=1685392224&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775511/3/?bust=1685392224&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775511/3/?bust=1685392224&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775511/3/?bust=1685392224"
+	}
+},
+{
+	"id": 64775512,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "Yellow Labrador Retriever",
+	"age": "Young",
+	"gender": "Female",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Loyal",
+			"Loves kisses",
+			"Playful"
+	],
+	"name": "Jewel",
+	"description": "Jewel has been rescued from living life on a rural dirt road and fending for herself along with three brothers....",
+	"photos":  {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775512/1/?bust=1685392231&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775512/1/?bust=1685392231&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775512/1/?bust=1685392231&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775512/1/?bust=1685392231"
+	}
+},
+{
+	"id": 64775510,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds":  "Mixed Breed",
+	"age": "Baby",
+	"gender": "Female",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Playful"
+	],
+	"name": "Simmental",
+	"description": "Simmental \n~8 weeks old, female, mixed breed/reservation mix\n\nMeet Simmental. Simmental and her siblings came to our spay/neuter clinic on...",
+	"photos":  {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775510/1/?bust=1685392204&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775510/1/?bust=1685392204&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775510/1/?bust=1685392204&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775510/1/?bust=1685392204"
+	}
+},
+{
+	"id": 64775508,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds":"Staffordshire Bull Terrier",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": false
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Smart",
+			"Loves kisses",
+			"",
+			"Meet N Greet Recommended",
+			"Loyal"
+	],
+	"name": "Buddy",
+	"description": "Meet Buddy! This hunk is in search of his forever family! He loves pets &amp; hugs &amp; is a very...",
+	"photos":  {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775508/1/?bust=1685392192&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775508/1/?bust=1685392192&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775508/1/?bust=1685392192&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775508/1/?bust=1685392192"
+	}
+},
+{
+	"id": 64775505,
+	"type": "Dog",
+	"breeds": "Mixed Breed",
+	"colors": {
+			"primary": "White / Cream",
+			"secondary": "Brown / Chocolate",
+			"tertiary": null
+	},
+	"age": "Baby",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": null
+	},
+	"tags": [
+			"Playful"
+	],
+	"name": "Jersey",
+	"description": "Jersey \n~8 weeks old, male, mixed breed/reservation mix\n\nMeet Jersey. Jersey and his siblings came to our spay/neuter clinic on...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775505/1/?bust=1685392157&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775505/1/?bust=1685392157&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775505/1/?bust=1685392157&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775505/1/?bust=1685392157"
+	}
+},
+{
+	"id": 64775504,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "Staffordshire Bull Terrier",
+	"age": "Adult",
+	"gender": "Male",
+	"size": "Large",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": true,
+			"cats": false
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Smart",
+			"Loves kisses",
+			"",
+			"Meet N Greet Recommended",
+			"Loyal"
+	],
+	"name": "Buddy ",
+	"description": "Meet Buddy! This hunk is in search of his forever family! He loves pets &amp; hugs &amp; is a very...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775504/2/?bust=1685392155&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775504/2/?bust=1685392155&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775504/2/?bust=1685392155&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775504/2/?bust=1685392155"
+	}
+},
+{
+	"id": 64775503,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "Labradoodle",
+	"age": "Baby",
+	"gender": "Female",
+	"size": "Large",
+	"price": "100",
+	"coat": "Wire",
+	"attributes": {
+			"spayed_neutered": false,
+			"house_trained": true,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": true,
+			"dogs": true,
+			"cats": true
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Loyal",
+			"Smart",
+			"Playful",
+			"Gentle",
+			"Protective",
+			"Brave",
+			"Curious",
+			"Athletic",
+			"Funny",
+			"Independent",
+			"Quiet",
+			"Dignified",
+			"Couch potato",
+			"Loves kisses"
+	],
+	"name": "Willow ",
+	"description": "Happy to announce we are now accepting applications for Willow!\n \nRescue: fureverable.com\nName: Willow\nBreed: Ausi-laberdoodle\nGender: female \nSpayed/neutered: spay...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775503/1/?bust=1685392149&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775503/1/?bust=1685392149&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775503/1/?bust=1685392149&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775503/1/?bust=1685392149"
+	}
+},
+{
+	"id": 64775500,
+	"organization_id": "TX1696",
+	"url": "https://www.petfinder.com/dog/barbie-64775500/tx/lubbock/south-plains-spca-tx1696/?referrer_id=e2f131ae-c22a-49ef-be78-898c78fa27ec",
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "Poodle",
+	"colors": {
+			"primary": null,
+			"secondary": null,
+			"tertiary": null
+	},
+	"age": "Adult",
+	"gender": "Female",
+	"size": "Small",
+	"price": "50",
+	"coat": "Curly",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": true,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [],
+	"name": "Barbie",
+	"description": "Barbie is a blind little Shih-Tzu/Yorkie/Poodle mix little lady about 2 1/2 years old. She was rescued from Tahoka Animal...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775500/1/?bust=1685392118&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775500/1/?bust=1685392118&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775500/1/?bust=1685392118&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775500/1/?bust=1685392118"
+	}
+},
+{
+	"id": 64775498,
+	"type": "Dog",
+	"species": "Dog",
+	"breeds": "German Pinscher",
+	"age": "Young",
+	"gender": "Male",
+	"size": "Medium",
+	"price": "100",
+	"coat": "Short",
+	"attributes": {
+			"spayed_neutered": true,
+			"house_trained": false,
+			"declawed": null,
+			"special_needs": false,
+			"shots_current": true
+	},
+	"environment": {
+			"children": null,
+			"dogs": null,
+			"cats": null
+	},
+	"tags": [
+			"Friendly",
+			"Affectionate",
+			"Playful",
+			"Athletic"
+	],
+	"name": "Brady",
+	"description": "Are you ready for some fun?!  Brady has a zest for life and loves everyone he meets!  This adorable pup...",
+	"photos": {
+			"small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775498/1/?bust=1685392115&width=300",
+			"medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775498/1/?bust=1685392115&width=450",
+			"large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775498/1/?bust=1685392115&width=600",
+			"full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/64775498/1/?bust=1685392115"
+	}
 }
 
 	]
