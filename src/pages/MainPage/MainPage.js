@@ -6,11 +6,13 @@ import { Header } from "../../components/Header/Header";
 import { Dogs } from "../../components/Dogs/Dogs";
 import { Search } from "../../components/Search/Search";
 import { Preloader } from "../../components/Preloader/Preloader";
+import { BasketList } from "../../components/BasketList/BasketList"
 
 function MainPage() {
 	const [dogs, setDogs] = useState([]);
 	const [loading, setLoading] = useState(true);
 	const [order, setOrder] = useState([]);
+	const [isBasketShow, setBasketShow] = useState(false);
 
 	const addToBasket = (item) => {
 		const productIndex = order.findIndex(orderItem => orderItem.id === item.id)
@@ -38,7 +40,10 @@ function MainPage() {
 		}
 	};
 
-
+	// показ корзины при нажатии
+	const handleBasketShow = () => {
+		setBasketShow(!isBasketShow);
+	}
 
   const searchDogs = (queryStr, gender = "Male, Female") => {
 		setLoading(true);
@@ -69,11 +74,12 @@ function MainPage() {
 
   return (
     <div className={MainPageStyle.mainPage}>
-      <Header order={order} />
+      <Header order={order} isBasketShow={isBasketShow} handleBasketShow={handleBasketShow} />
       <div className="content">
         <Search searchDogs={searchDogs} />
         <div className="main__body">
           {loading ? (<Preloader />) : (<Dogs dogs={dogs} addToBasket={addToBasket} />)}
+					{isBasketShow && <BasketList order={order} handleBasketShow={handleBasketShow} />}
         </div>
       </div>
       <Footer />

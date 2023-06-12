@@ -5,7 +5,7 @@ import { Cart } from "../Cart/Cart";
 import { Link } from "react-router-dom";
 
 function Header(props) {
-  const { order } = props;
+  const { order, isBasketShow, handleBasketShow = Function.prototype } = props;
   return (
     <header className="header">
       <div className="header__body wrap">
@@ -13,7 +13,7 @@ function Header(props) {
           <img className="header__logo" src={Logo} alt="logo" />
         </Link>
         <div className="header__user">
-          <Cart quantity={order.length} />
+          <Cart quantity={order.length} handleBasketShow={handleBasketShow} />
         </div>
       </div>
     </header>

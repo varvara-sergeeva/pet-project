@@ -1,0 +1,21 @@
+.basket-item {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 10px 15px;
+	border-bottom: 1px solid rgba(255, 159, 41, 0.2);
+	&__name {
+		flex-grow: 1;
+	}
+	&__quantity {
+		min-width: 100px;
+	}
+	&__price {
+		min-width: 50px;
+	}
+	&__delete {
+		width: 20px;
+		padding: 0 12px 0 20px;
+		cursor: pointer;
+	}
+}
