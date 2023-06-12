@@ -3,7 +3,13 @@ import DeleteIcon from "./../../assets/img/Header/delete.svg";
 import { BasketItem } from "../BasketItem/BasketItem";
 
 function BasketList(props) {
-  const { order = [], handleBasketShow = Function.prototype } = props;
+  const {
+    order = [],
+    handleBasketShow = Function.prototype,
+    removeFromBasket = Function.prototype,
+    plusQuantity = Function.prototype,
+    minusQuantity = Function.prototype,
+  } = props;
 
   const totalPrice = order.reduce((sum, product) => {
     return sum + product.price * product.quantity;
@@ -19,7 +25,15 @@ function BasketList(props) {
       </div>
       <ul className="basket__content">
         {order.length ? (
-          order.map((item) => <BasketItem key={item.id} {...item} />)
+          order.map((item) => (
+            <BasketItem
+              key={item.id}
+              removeFromBasket={removeFromBasket}
+              plusQuantity={plusQuantity}
+              minusQuantity={minusQuantity}
+              {...item}
+            />
+          ))
         ) : (
           <li className="basket-item">В корзине пусто</li>
         )}

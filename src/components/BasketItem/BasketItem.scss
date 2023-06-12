@@ -9,13 +9,28 @@
 	}
 	&__quantity {
 		min-width: 100px;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
 	}
 	&__price {
-		min-width: 50px;
+		min-width: 80px;
+		text-align: end;
 	}
 	&__delete {
 		width: 20px;
 		padding: 0 12px 0 20px;
+		cursor: pointer;
+	}
+	button {
+		border: none;
+		background: none;
+		color: #000;
+		cursor: pointer;
+		
+	}
+	&__plus {
 		cursor: pointer;
 	}
 }

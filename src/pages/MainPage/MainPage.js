@@ -40,6 +40,42 @@ function MainPage() {
 		}
 	};
 
+	const plusQuantity = (itemId) => {
+		const newOrder = order.map((element) => {
+			if (element.id === itemId) {
+				const newQuantity = element.quantity + 1;
+				return {
+					...element,
+					quantity: newQuantity,
+				}
+			} else {
+				return element
+			}
+		})
+			setOrder(newOrder);
+	}
+	const minusQuantity = (itemId) => {
+		const newOrder = order.map((element) => {
+			if (element.id === itemId) {
+				const newQuantity = element.quantity - 1;
+				return {
+					...element,
+					quantity: newQuantity >= 0 ? newQuantity : 0,
+				}
+			} else {
+				return element
+			}
+		})
+			setOrder(newOrder);
+	}
+
+
+
+	const removeFromBasket = (itemId) => {
+		const newOrder = order.filter(el => el.id !== itemId);
+		setOrder(newOrder);
+	}
+
 	// показ корзины при нажатии
 	const handleBasketShow = () => {
 		setBasketShow(!isBasketShow);
@@ -79,7 +115,12 @@ function MainPage() {
         <Search searchDogs={searchDogs} />
         <div className="main__body">
           {loading ? (<Preloader />) : (<Dogs dogs={dogs} addToBasket={addToBasket} />)}
-					{isBasketShow && <BasketList order={order} handleBasketShow={handleBasketShow} />}
+					{isBasketShow && <BasketList 
+						order={order} 
+						handleBasketShow={handleBasketShow} 
+						removeFromBasket={removeFromBasket} 
+						plusQuantity={plusQuantity}
+						minusQuantity={minusQuantity} />}
         </div>
       </div>
       <Footer />
